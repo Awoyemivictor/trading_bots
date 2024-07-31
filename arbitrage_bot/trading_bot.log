@@ -1,0 +1,6 @@
+INFO:root:Executed buy order on binance for 0.01 BTCUSDT
+ERROR:root:Error executing trade on bybit: Insufficient balance. (ErrCode: 170131) (ErrTime: 18:52:46).
+Request → POST https://api-testnet.bybit.com/v5/order/create: {"category": "spot", "symbol": "BTCUSDT", "side": "Sell", "orderType": "Market", "qty": "0.01"}.
+INFO:root:Executed buy order on binance for 0.01 BTCUSDT
+ERROR:root:Error executing trade on bybit: Insufficient balance. (ErrCode: 170131) (ErrTime: 18:53:49).
+Request → POST https://api-testnet.bybit.com/v5/order/create: {"category": "spot", "symbol": "BTCUSDT", "side": "Sell", "orderType": "Market", "qty": "0.01"}.
